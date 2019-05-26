@@ -5,5 +5,5 @@ Recuerde ejecutar ```npm install``` para las librerías
 ### Ejemplo:
 
  ```
- node app -d "Los Angeles Chile
+ node app -d "Los Angeles Chile"
  ```
